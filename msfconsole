@@ -1,0 +1,2 @@
+#!/data/data/com.termux/files/usr/bin/bash
+cd ~/metasploit-framework && bundle exec ruby msfconsole "$@"
